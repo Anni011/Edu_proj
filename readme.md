@@ -21,5 +21,3 @@ If you are a beginner and would like me to explain something in the code, or if 
 MIT
 
 Editing for testing through jenkins pipeline
-ABC
-DEF
